@@ -1,0 +1,52 @@
+region,state_name,country,year,median_household_income,per_capita_income,gdp_per_capita,state_population,source
+DC,"Washington, D.C.",United States,2023,108210,100909,,,Wikipedia tables citing ACS income and BEA state GDP
+MA,Massachusetts,United States,2023,99858,87812,110561.0,7154084.0,Wikipedia tables citing ACS income and BEA state GDP
+NJ,New Jersey,United States,2023,99781,80724,90272.0,9548215.0,Wikipedia tables citing ACS income and BEA state GDP
+MD,Maryland,United States,2023,98678,73849,87021.0,6265347.0,Wikipedia tables citing ACS income and BEA state GDP
+NH,New Hampshire,United States,2023,96838,77260,85518.0,1415342.0,Wikipedia tables citing ACS income and BEA state GDP
+CA,California,United States,2023,95521,80423,104916.0,39355309.0,Wikipedia tables citing ACS income and BEA state GDP
+HI,Hawaii,United States,2023,95322,65151,80325.0,1432820.0,Wikipedia tables citing ACS income and BEA state GDP
+WA,Washington,United States,2023,94605,79659,108468.0,8001020.0,Wikipedia tables citing ACS income and BEA state GDP
+UT,Utah,United States,2023,93421,62823,86506.0,3538904.0,Wikipedia tables citing ACS income and BEA state GDP
+CO,Colorado,United States,2023,92911,78918,93026.0,6012561.0,Wikipedia tables citing ACS income and BEA state GDP
+CT,Connecticut,United States,2023,91665,87447,100235.0,3688496.0,Wikipedia tables citing ACS income and BEA state GDP
+VA,Virginia,United States,2023,89931,72855,86747.0,8880107.0,Wikipedia tables citing ACS income and BEA state GDP
+AK,Alaska,United States,2023,88121,71616,95147.0,737270.0,Wikipedia tables citing ACS income and BEA state GDP
+MN,Minnesota,United States,2023,85086,71866,86371.0,5830405.0,Wikipedia tables citing ACS income and BEA state GDP
+RI,Rhode Island,United States,2023,84972,66480,74594.0,1114521.0,Wikipedia tables citing ACS income and BEA state GDP
+DE,Delaware,United States,2023,82174,65392,98055.0,1059952.0,Wikipedia tables citing ACS income and BEA state GDP
+NY,New York,United States,2023,82095,79581,117332.0,20002427.0,Wikipedia tables citing ACS income and BEA state GDP
+VT,Vermont,United States,2023,81211,66463,70131.0,644663.0,Wikipedia tables citing ACS income and BEA state GDP
+IL,Illinois,United States,2023,80306,70953,90449.0,12719141.0,Wikipedia tables citing ACS income and BEA state GDP
+OR,Oregon,United States,2023,80160,65426,77916.0,4273586.0,Wikipedia tables citing ACS income and BEA state GDP
+AZ,Arizona,United States,2023,77315,61652,73203.0,7623818.0,Wikipedia tables citing ACS income and BEA state GDP
+ND,North Dakota,United States,2023,76525,73341,95982.0,799358.0,Wikipedia tables citing ACS income and BEA state GDP
+NV,Nevada,United States,2023,76364,65168,80880.0,3282188.0,Wikipedia tables citing ACS income and BEA state GDP
+TX,Texas,United States,2023,75780,65422,86987.0,31709821.0,Wikipedia tables citing ACS income and BEA state GDP
+ID,Idaho,United States,2023,74942,59035,63991.0,2029733.0,Wikipedia tables citing ACS income and BEA state GDP
+GA,Georgia,United States,2023,74632,58581,78754.0,11302748.0,Wikipedia tables citing ACS income and BEA state GDP
+WI,Wisconsin,United States,2023,74631,63963,75605.0,5972787.0,Wikipedia tables citing ACS income and BEA state GDP
+NE,Nebraska,United States,2023,74590,67800,93145.0,2018006.0,Wikipedia tables citing ACS income and BEA state GDP
+PA,Pennsylvania,United States,2023,73824,67839,78544.0,13059432.0,Wikipedia tables citing ACS income and BEA state GDP
+ME,Maine,United States,2023,73733,63117,69803.0,1414874.0,Wikipedia tables citing ACS income and BEA state GDP
+FL,Florida,United States,2023,73311,63248,73784.0,23462518.0,Wikipedia tables citing ACS income and BEA state GDP
+WY,Wyoming,United States,2023,72415,77837,90335.0,588753.0,Wikipedia tables citing ACS income and BEA state GDP
+SD,South Dakota,United States,2023,71810,70353,80685.0,935094.0,Wikipedia tables citing ACS income and BEA state GDP
+IA,Iowa,United States,2023,71433,62351,79631.0,3238387.0,Wikipedia tables citing ACS income and BEA state GDP
+MT,Montana,United States,2023,70804,63918,66379.0,1144694.0,Wikipedia tables citing ACS income and BEA state GDP
+NC,North Carolina,United States,2023,70804,60484,75876.0,11197968.0,Wikipedia tables citing ACS income and BEA state GDP
+KS,Kansas,United States,2023,70333,63732,79513.0,2977220.0,Wikipedia tables citing ACS income and BEA state GDP
+IN,Indiana,United States,2023,69477,60038,76004.0,6973333.0,Wikipedia tables citing ACS income and BEA state GDP
+MI,Michigan,United States,2023,69183,59714,71083.0,10127884.0,Wikipedia tables citing ACS income and BEA state GDP
+MO,Missouri,United States,2023,68545,61302,72108.0,6270541.0,Wikipedia tables citing ACS income and BEA state GDP
+SC,South Carolina,United States,2023,67804,56123,63711.0,5570274.0,Wikipedia tables citing ACS income and BEA state GDP
+OH,Ohio,United States,2023,67769,60402,78120.0,11900510.0,Wikipedia tables citing ACS income and BEA state GDP
+TN,Tennessee,United States,2023,67631,61049,75748.0,7315076.0,Wikipedia tables citing ACS income and BEA state GDP
+NM,New Mexico,United States,2023,62268,54428,66229.0,2125498.0,Wikipedia tables citing ACS income and BEA state GDP
+AL,Alabama,United States,2023,62212,53175,61846.0,5193088.0,Wikipedia tables citing ACS income and BEA state GDP
+OK,Oklahoma,United States,2023,62138,55826,64719.0,4123288.0,Wikipedia tables citing ACS income and BEA state GDP
+KY,Kentucky,United States,2023,61118,54326,64110.0,4606864.0,Wikipedia tables citing ACS income and BEA state GDP
+AR,Arkansas,United States,2023,58700,54347,60276.0,3114791.0,Wikipedia tables citing ACS income and BEA state GDP
+LA,Louisiana,United States,2023,58229,57100,71642.0,4618189.0,Wikipedia tables citing ACS income and BEA state GDP
+WV,West Virginia,United States,2023,55948,52585,60783.0,1766147.0,Wikipedia tables citing ACS income and BEA state GDP
+MS,Mississippi,United States,2023,54203,48110,53061.0,2954160.0,Wikipedia tables citing ACS income and BEA state GDP

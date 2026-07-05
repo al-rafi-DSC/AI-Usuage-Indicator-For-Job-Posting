@@ -1,0 +1,17 @@
+posting_id,company,sector,country,region,posting_date,job_title,description,skills
+1,Alpha Robotics,Manufacturing,Italy,Lombardy,2021-03-14,Machine Learning Engineer,Develop predictive maintenance models for industrial equipment,Python; machine learning; scikit learn; cloud ai
+2,Alpha Robotics,Manufacturing,Italy,Lombardy,2022-06-20,MLOps Specialist,Deploy machine learning pipelines and monitor model performance,Python; MLOps; model deployment; Kubernetes
+3,Milano HealthTech,Healthcare,Italy,Lombardy,2022-09-02,Data Scientist,Use deep learning and computer vision for diagnostic support,Python; PyTorch; computer vision
+4,Milano HealthTech,Healthcare,Italy,Lombardy,2023-04-18,Clinical Data Analyst,Analyze clinical outcomes and prepare dashboards,SQL; Excel; statistics
+5,FinCore Analytics,Finance,Germany,Berlin,2021-11-22,NLP Engineer,Build natural language processing models for customer service automation,NLP; transformer model; Hugging Face; Python
+6,FinCore Analytics,Finance,Germany,Berlin,2023-01-10,Prompt Engineer,Design prompt engineering workflows for large language model applications,Generative AI; LLM; prompt engineering
+7,GreenGrid Energy,Energy,France,Ile-de-France,2020-07-12,Operations Analyst,Forecast energy demand and monitor grid performance,Excel; SQL; reporting
+8,GreenGrid Energy,Energy,France,Ile-de-France,2023-08-25,AI Optimization Engineer,Apply artificial intelligence to optimize renewable energy scheduling,Artificial intelligence; predictive modeling; Python
+9,RetailNext Europe,Retail,Spain,Madrid,2021-05-09,Marketing Analyst,Segment customers and evaluate campaigns,SQL; Tableau; A/B testing
+10,RetailNext Europe,Retail,Spain,Madrid,2024-02-16,Recommendation Systems Scientist,Develop recommendation system models for online retail personalization,Machine learning; recommendation system; Python
+11,CloudWorks,Technology,Netherlands,North Holland,2022-12-01,Cloud Solutions Architect,Design cloud data platforms for enterprise clients,AWS; Spark; data engineering
+12,CloudWorks,Technology,Netherlands,North Holland,2024-03-15,Generative AI Consultant,Implement generative AI assistants using large language model APIs,Generative AI; LLM; Azure AI; Python
+13,Alpha Robotics,Manufacturing,Italy,Lombardy,2024-05-06,Robotics Software Engineer,Build automation model components for robotic quality inspection,Python; computer vision; neural network
+14,FinCore Analytics,Finance,Germany,Berlin,2024-04-11,Risk Analyst,Create credit risk reports for banking clients,Excel; SQL; finance
+15,GreenGrid Energy,Energy,France,Ile-de-France,2024-01-30,Forecasting Data Scientist,Develop classification model and predictive modelling tools for grid stability,Python; scikit learn; data science
+16,RetailNext Europe,Retail,Spain,Madrid,2022-10-07,Ecommerce Manager,Coordinate merchandising operations and supplier relationships,Shopify; Excel; project management

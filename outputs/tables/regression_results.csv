@@ -1,0 +1,6 @@
+outcome,coef_ai_adoption_rate,p_value,r_squared,n_obs,note
+avg_posted_salary,45094.46072808714,0.5354648004845155,0.47039007727202364,185,"OLS with sector, region, and year fixed effects"
+median_household_income,85083.95838293129,2.740979666219034e-09,0.06701124403707093,267,OLS with sector and year fixed effects; state outcomes vary at region level
+per_capita_income,72006.90537695779,1.9456799619984713e-06,0.07273216269104521,267,OLS with sector and year fixed effects; state outcomes vary at region level
+gdp_per_capita,108824.60986452634,1.41344436102475e-05,0.0668178029107539,263,OLS with sector and year fixed effects; state outcomes vary at region level
+state_population,36276544.13605576,0.10048621726028947,0.059823257844776156,263,OLS with sector and year fixed effects; state outcomes vary at region level
