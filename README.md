@@ -101,7 +101,3 @@ The baseline model estimates relationships such as:
 ```text
 outcome = beta0 + beta1 * AI adoption rate + fixed effects + error
 ```
-
-## Note on Lightcast
-
-The professor's preferred source is Lightcast job postings. Because Lightcast data is restricted, this repository uses a public LinkedIn postings dataset to implement the same workflow. If Lightcast data becomes available, replace `data/job_postings.csv` with a Lightcast export containing posting ID, company, sector, geography, date, title, description, and skills.
